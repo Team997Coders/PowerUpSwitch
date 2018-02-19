@@ -1,4 +1,4 @@
-# PowerUpScale
+# PowerUpSwitch
 
 This project contains the firmware for the FMS Powerup Switch control unit.  It sends plate ownership commands to the faux FMS server located in the PowerUpFMSServer project and controls LEDs for each plate on the switch.  We used magnetic reed switches to detect when a plate was owned.
 
