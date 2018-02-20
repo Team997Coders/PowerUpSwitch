@@ -16,4 +16,4 @@ Magnetic Switches https://www.amazon.com/gp/product/B00LYCUSBY/ref=oh_aui_detail
 2x Power Supply https://www.amazon.com/gp/product/B017YEOAPA/ref=od_aui_detailpages00?ie=UTF8&psc=1  
 2x LED Strips https://www.amazon.com/gp/product/B00ZHB9M6A/ref=od_aui_detailpages00?ie=UTF8&psc=1  
 
-[Schematic](Schematic-Switch.jpg)
+![Schematic](Schematic-Switch.jpg)
